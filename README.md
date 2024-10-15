@@ -1,1 +1,1 @@
-
+In these  CRUD operation is used to  Create, Read, Update, and Delete the data in database with help of springboot framework,. use the application properties to connect the mysql. first of all you push the data in  postman tool it goes  to controller layer then go to serives interface layer and implement with class this layer is used to write the bussiness lorgic and go to repository layer this is also interface extends with JpaRepository for inbulid methods and data go to mysql database .
