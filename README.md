@@ -1,1 +1,1 @@
-In Spring Boot, a CRUD operation refers to the basic operations you can perform on a database : Create, Read, Update, and Delete. These operations are fundamental for manipulating data in any application. Spring Boot, combined with Spring Data JPA, provides a simplified and efficient way to implement these operations project in MVC architecture with postman tool.
+
